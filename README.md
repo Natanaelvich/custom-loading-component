@@ -17,10 +17,11 @@ custom component loading animated made with react native, Expo and Moti.
 ## 🖼 GIF
 
 <p align='center'>
-<img src='' width='375' />
+<img src='https://user-images.githubusercontent.com/52014318/144162338-5a6c7fe0-3a12-4a38-8186-13c9141933ed.gif' width='375' />
 </p>
 
-## ✨ Technologies
+## ✨ Technologies!
+
 
 This project was developed with the following technologies:
 
